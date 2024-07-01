@@ -1,6 +1,6 @@
 package belipenjor;
 import belipenjor.BeliPenjor;
-import belipenjor.jForm2;
+import belipenjor.jForm22;
 import static belipenjor.koneksi.buatkoneks;
 import javax.swing.JTable;
 import java.awt.image.BufferedImage;

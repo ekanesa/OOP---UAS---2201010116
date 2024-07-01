@@ -26,10 +26,10 @@ public class BeliPenjor {
                 jf1.setVisible(true);
                 break;
             case 1:
-                jForm2 jf2 = new jForm2();
-                jf2.setResizable(false);
-                jf2.setAlwaysOnTop(true);
-                jf2.setVisible(true);
+                jForm22 jf22 = new jForm22();
+                jf22.setResizable(false);
+                jf22.setAlwaysOnTop(true);
+                jf22.setVisible(true);
                 break;
             case 2:
                 System.exit(0);
